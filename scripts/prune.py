@@ -48,4 +48,4 @@ def prune_it(p, keep_only_ema=False):
 
 
 if __name__ == "__main__":
-    prune_it('models/ldm/stable-diffusion-v1/model.ckpt')
+    prune_it('C:/Users/Administrator/stable-diffusion-webui-master/wd-v1-2-full-emma.ckpt')
